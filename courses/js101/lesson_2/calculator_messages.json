@@ -1,0 +1,13 @@
+{
+    "en": {
+        "welcome": "Welcome to Calculator!",
+        "goodBye": "Thanks for using my Calculator! GOODBYE!!!",
+        "invalidNumberError": "Hmm... that doesn't look like a valid number.",
+        "firstNumberRequest": "What's the first number?",
+        "secondNumberRequest": "What's the second number?",
+        "operationRequest": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+        "operationError": "Must choose 1, 2, 3 or 4",
+        "resultOutputPrefix": "The result is:",
+        "restartRequest": "Do you want to perform another calculation?\n\"y\" for Yes, any other char to stop."
+    }
+}
